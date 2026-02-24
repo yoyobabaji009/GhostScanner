@@ -1,0 +1,9 @@
+
+--- Scan: 127.0.0.1 (1-1000) ---
+Port 135: OPEN
+Port 445: OPEN
+Port 902: OPEN
+   [Banner] 220 VMware Authentication Daemon Version 1.10: SSL Required, ServerDaemonProtocol:SOAP, MKSDisplayProtocol:VNC , , NFCSSL supported/t,   
+Port 912: OPEN
+   [Banner] 220 VMware Authentication Daemon Version 1.0, ServerDaemonProtocol:SOAP, MKSDisplayProtocol:VNC , , ,   
+--- Scan Completed ---

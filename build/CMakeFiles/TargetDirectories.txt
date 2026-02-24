@@ -1,0 +1,3 @@
+C:/Users/yoyob/OneDrive/Desktop/Puskar/Projects/GhostScanner/build/CMakeFiles/GhostScanner.dir
+C:/Users/yoyob/OneDrive/Desktop/Puskar/Projects/GhostScanner/build/CMakeFiles/edit_cache.dir
+C:/Users/yoyob/OneDrive/Desktop/Puskar/Projects/GhostScanner/build/CMakeFiles/rebuild_cache.dir
